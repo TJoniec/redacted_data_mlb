@@ -1,0 +1,17 @@
+import pandas as pd
+
+# GitHub “raw” URL for your public JSON file
+url = "https://raw.githubusercontent.com/TJoniec/redacted_data_mlb/main/daily_lookup_redacted.json"
+
+# If the JSON is a simple list of objects:
+df = pd.read_json(url)
+
+# If it’s nested under {"data": {"daily_lookup": [...]}}
+# you can do:
+# import requests
+# import pandas as pd
+# payload = requests.get(url).json()
+# df = pd.json_normalize(payload['data']['daily_lookup'])
+
+# Show the first five rows
+print(df.head())
