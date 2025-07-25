@@ -1,0 +1,1602 @@
+[
+  {
+    "Player":"Spencer Schwellenbach",
+    "Team":"ATL",
+    "Pos":"SP",
+    "DKSalary":9800.0,
+    "Ownership":17.8,
+    "ProjPoints":17.74,
+    "Cluster":5,
+    "DistanceToCentroid":0.870216312
+  },
+  {
+    "Player":"Bryan Woo",
+    "Team":"SEA",
+    "Pos":"SP",
+    "DKSalary":9600.0,
+    "Ownership":36.6,
+    "ProjPoints":15.82,
+    "Cluster":2,
+    "DistanceToCentroid":1.8635718406
+  },
+  {
+    "Player":"Chad Patrick",
+    "Team":"MIL",
+    "Pos":"SP",
+    "DKSalary":8600.0,
+    "Ownership":35.5,
+    "ProjPoints":16.24,
+    "Cluster":2,
+    "DistanceToCentroid":1.9130390354
+  },
+  {
+    "Player":"Shane Smith",
+    "Team":"CWS",
+    "Pos":"SP",
+    "DKSalary":8400.0,
+    "Ownership":4.5,
+    "ProjPoints":11.95,
+    "Cluster":0,
+    "DistanceToCentroid":0.8584948071
+  },
+  {
+    "Player":"Matthew Liberatore",
+    "Team":"STL",
+    "Pos":"SP",
+    "DKSalary":8200.0,
+    "Ownership":3.4,
+    "ProjPoints":11.97,
+    "Cluster":0,
+    "DistanceToCentroid":0.8280569767
+  },
+  {
+    "Player":"Nick Lodolo",
+    "Team":"CIN",
+    "Pos":"SP",
+    "DKSalary":8000.0,
+    "Ownership":6.1,
+    "ProjPoints":13.35,
+    "Cluster":0,
+    "DistanceToCentroid":0.7927425761
+  },
+  {
+    "Player":"Stephen Kolek",
+    "Team":"SD",
+    "Pos":"SP",
+    "DKSalary":7900.0,
+    "Ownership":9.1,
+    "ProjPoints":11.02,
+    "Cluster":0,
+    "DistanceToCentroid":0.7613927826
+  },
+  {
+    "Player":"Ben Brown",
+    "Team":"CHC",
+    "Pos":"SP",
+    "DKSalary":7700.0,
+    "Ownership":14.2,
+    "ProjPoints":14.04,
+    "Cluster":5,
+    "DistanceToCentroid":1.4190646408
+  },
+  {
+    "Player":"Bailey Ober",
+    "Team":"MIN",
+    "Pos":"SP",
+    "DKSalary":7600.0,
+    "Ownership":13.2,
+    "ProjPoints":15.08,
+    "Cluster":5,
+    "DistanceToCentroid":1.2414852506
+  },
+  {
+    "Player":"Walker Buehler",
+    "Team":"BOS",
+    "Pos":"SP",
+    "DKSalary":7500.0,
+    "Ownership":13.0,
+    "ProjPoints":11.78,
+    "Cluster":0,
+    "DistanceToCentroid":0.9188894504
+  },
+  {
+    "Player":"Eduardo Rodriguez",
+    "Team":"ARI",
+    "Pos":"SP",
+    "DKSalary":7300.0,
+    "Ownership":29.4,
+    "ProjPoints":14.97,
+    "Cluster":5,
+    "DistanceToCentroid":2.2503450888
+  },
+  {
+    "Player":"Allan Winans",
+    "Team":"NYY",
+    "Pos":"SP",
+    "DKSalary":7000.0,
+    "Ownership":4.1,
+    "ProjPoints":9.73,
+    "Cluster":4,
+    "DistanceToCentroid":1.0763778501
+  },
+  {
+    "Player":"Mitchell Parker",
+    "Team":"WSH",
+    "Pos":"SP",
+    "DKSalary":6800.0,
+    "Ownership":2.4,
+    "ProjPoints":10.63,
+    "Cluster":0,
+    "DistanceToCentroid":0.9852251153
+  },
+  {
+    "Player":"Aaron Judge",
+    "Team":"NYY",
+    "Pos":"OF",
+    "DKSalary":6600.0,
+    "Ownership":37.0,
+    "ProjPoints":13.39,
+    "Cluster":3,
+    "DistanceToCentroid":2.3494310541
+  },
+  {
+    "Player":"Jack Kochanowicz",
+    "Team":"LAA",
+    "Pos":"SP",
+    "DKSalary":6500.0,
+    "Ownership":7.3,
+    "ProjPoints":11.13,
+    "Cluster":0,
+    "DistanceToCentroid":0.6422504942
+  },
+  {
+    "Player":"Ronald Acu\u00f1a Jr.",
+    "Team":"ATL",
+    "Pos":"OF",
+    "DKSalary":6400.0,
+    "Ownership":18.4,
+    "ProjPoints":10.57,
+    "Cluster":0,
+    "DistanceToCentroid":1.8832304242
+  },
+  {
+    "Player":"Paul Blackburn",
+    "Team":"NYM",
+    "Pos":"SP",
+    "DKSalary":6300.0,
+    "Ownership":1.4,
+    "ProjPoints":8.82,
+    "Cluster":4,
+    "DistanceToCentroid":0.7850589003
+  },
+  {
+    "Player":"Kyle Tucker",
+    "Team":"CHC",
+    "Pos":"OF",
+    "DKSalary":6200.0,
+    "Ownership":4.8,
+    "ProjPoints":9.87,
+    "Cluster":4,
+    "DistanceToCentroid":0.6488551369
+  },
+  {
+    "Player":"Oneil Cruz",
+    "Team":"PIT",
+    "Pos":"OF",
+    "DKSalary":6100.0,
+    "Ownership":4.2,
+    "ProjPoints":9.75,
+    "Cluster":4,
+    "DistanceToCentroid":0.5798762246
+  },
+  {
+    "Player":"Braxton Ashcraft",
+    "Team":"PIT",
+    "Pos":"SP",
+    "DKSalary":6000.0,
+    "Ownership":2.1,
+    "ProjPoints":7.83,
+    "Cluster":4,
+    "DistanceToCentroid":0.7891465061
+  },
+  {
+    "Player":"Cal Raleigh",
+    "Team":"SEA",
+    "Pos":"C",
+    "DKSalary":6000.0,
+    "Ownership":8.7,
+    "ProjPoints":9.67,
+    "Cluster":4,
+    "DistanceToCentroid":0.6974331809
+  },
+  {
+    "Player":"Pete Crow-Armstrong",
+    "Team":"CHC",
+    "Pos":"OF",
+    "DKSalary":5900.0,
+    "Ownership":2.6,
+    "ProjPoints":8.65,
+    "Cluster":4,
+    "DistanceToCentroid":0.5044250932
+  },
+  {
+    "Player":"Elly De La Cruz",
+    "Team":"CIN",
+    "Pos":"SS",
+    "DKSalary":5800.0,
+    "Ownership":29.5,
+    "ProjPoints":10.69,
+    "Cluster":3,
+    "DistanceToCentroid":0.9901521518
+  },
+  {
+    "Player":"James Wood",
+    "Team":"WSH",
+    "Pos":"OF",
+    "DKSalary":5700.0,
+    "Ownership":2.8,
+    "ProjPoints":9.82,
+    "Cluster":4,
+    "DistanceToCentroid":0.5587225756
+  },
+  {
+    "Player":"Byron Buxton",
+    "Team":"MIN",
+    "Pos":"OF",
+    "DKSalary":5600.0,
+    "Ownership":2.9,
+    "ProjPoints":9.43,
+    "Cluster":4,
+    "DistanceToCentroid":0.4141471514
+  },
+  {
+    "Player":"Ketel Marte",
+    "Team":"ARI",
+    "Pos":"2B",
+    "DKSalary":5500.0,
+    "Ownership":13.0,
+    "ProjPoints":10.38,
+    "Cluster":4,
+    "DistanceToCentroid":1.3031644979
+  },
+  {
+    "Player":"Francisco Lindor",
+    "Team":"NYM",
+    "Pos":"SS",
+    "DKSalary":5500.0,
+    "Ownership":4.0,
+    "ProjPoints":7.92,
+    "Cluster":4,
+    "DistanceToCentroid":0.5277137717
+  },
+  {
+    "Player":"Juan Soto",
+    "Team":"NYM",
+    "Pos":"OF",
+    "DKSalary":5400.0,
+    "Ownership":3.9,
+    "ProjPoints":9.45,
+    "Cluster":4,
+    "DistanceToCentroid":0.2993135363
+  },
+  {
+    "Player":"Matt Olson",
+    "Team":"ATL",
+    "Pos":"1B",
+    "DKSalary":5300.0,
+    "Ownership":6.5,
+    "ProjPoints":8.5,
+    "Cluster":4,
+    "DistanceToCentroid":0.3010696768
+  },
+  {
+    "Player":"CJ Abrams",
+    "Team":"WSH",
+    "Pos":"SS",
+    "DKSalary":5300.0,
+    "Ownership":3.8,
+    "ProjPoints":8.73,
+    "Cluster":4,
+    "DistanceToCentroid":0.2543641984
+  },
+  {
+    "Player":"Seiya Suzuki",
+    "Team":"CHC",
+    "Pos":"OF",
+    "DKSalary":5200.0,
+    "Ownership":8.6,
+    "ProjPoints":8.79,
+    "Cluster":4,
+    "DistanceToCentroid":0.5166481938
+  },
+  {
+    "Player":"Pete Alonso",
+    "Team":"NYM",
+    "Pos":"1B",
+    "DKSalary":5200.0,
+    "Ownership":2.7,
+    "ProjPoints":8.11,
+    "Cluster":4,
+    "DistanceToCentroid":0.5689367283
+  },
+  {
+    "Player":"Jazz Chisholm Jr.",
+    "Team":"NYY",
+    "Pos":"2B\/3B",
+    "DKSalary":5100.0,
+    "Ownership":12.6,
+    "ProjPoints":10.04,
+    "Cluster":6,
+    "DistanceToCentroid":1.0833319171
+  },
+  {
+    "Player":"Zach Neto",
+    "Team":"LAA",
+    "Pos":"SS",
+    "DKSalary":5100.0,
+    "Ownership":4.8,
+    "ProjPoints":9.31,
+    "Cluster":4,
+    "DistanceToCentroid":0.2806253915
+  },
+  {
+    "Player":"Julio Rodr\u00edguez",
+    "Team":"SEA",
+    "Pos":"OF",
+    "DKSalary":5000.0,
+    "Ownership":5.9,
+    "ProjPoints":9.05,
+    "Cluster":4,
+    "DistanceToCentroid":0.303375864
+  },
+  {
+    "Player":"Fernando Tatis Jr.",
+    "Team":"SD",
+    "Pos":"OF",
+    "DKSalary":5000.0,
+    "Ownership":6.8,
+    "ProjPoints":10.55,
+    "Cluster":4,
+    "DistanceToCentroid":0.8290120189
+  },
+  {
+    "Player":"Manny Machado",
+    "Team":"SD",
+    "Pos":"3B",
+    "DKSalary":4900.0,
+    "Ownership":7.3,
+    "ProjPoints":9.58,
+    "Cluster":4,
+    "DistanceToCentroid":0.5418080951
+  },
+  {
+    "Player":"Cody Bellinger",
+    "Team":"NYY",
+    "Pos":"OF",
+    "DKSalary":4800.0,
+    "Ownership":8.5,
+    "ProjPoints":8.98,
+    "Cluster":4,
+    "DistanceToCentroid":0.6269061581
+  },
+  {
+    "Player":"Josh Naylor",
+    "Team":"ARI",
+    "Pos":"1B",
+    "DKSalary":4800.0,
+    "Ownership":6.4,
+    "ProjPoints":8.49,
+    "Cluster":4,
+    "DistanceToCentroid":0.5008180529
+  },
+  {
+    "Player":"Eugenio Su\u00e1rez",
+    "Team":"ARI",
+    "Pos":"3B",
+    "DKSalary":4700.0,
+    "Ownership":7.6,
+    "ProjPoints":8.32,
+    "Cluster":7,
+    "DistanceToCentroid":0.5510941417
+  },
+  {
+    "Player":"TJ Friedl",
+    "Team":"CIN",
+    "Pos":"OF",
+    "DKSalary":4700.0,
+    "Ownership":7.2,
+    "ProjPoints":8.11,
+    "Cluster":7,
+    "DistanceToCentroid":0.4842276825
+  },
+  {
+    "Player":"Jarren Duran",
+    "Team":"BOS",
+    "Pos":"OF",
+    "DKSalary":4600.0,
+    "Ownership":22.1,
+    "ProjPoints":8.86,
+    "Cluster":3,
+    "DistanceToCentroid":1.4119481242
+  },
+  {
+    "Player":"Christian Yelich",
+    "Team":"MIL",
+    "Pos":"OF",
+    "DKSalary":4600.0,
+    "Ownership":6.6,
+    "ProjPoints":8.44,
+    "Cluster":7,
+    "DistanceToCentroid":0.4319034421
+  },
+  {
+    "Player":"Paul Goldschmidt",
+    "Team":"NYY",
+    "Pos":"1B",
+    "DKSalary":4500.0,
+    "Ownership":26.4,
+    "ProjPoints":9.45,
+    "Cluster":3,
+    "DistanceToCentroid":0.7529530569
+  },
+  {
+    "Player":"Austin Riley",
+    "Team":"ATL",
+    "Pos":"3B",
+    "DKSalary":4500.0,
+    "Ownership":14.2,
+    "ProjPoints":8.09,
+    "Cluster":6,
+    "DistanceToCentroid":0.4640347022
+  },
+  {
+    "Player":"Mike Trout",
+    "Team":"LAA",
+    "Pos":"OF",
+    "DKSalary":4500.0,
+    "Ownership":7.8,
+    "ProjPoints":10.26,
+    "Cluster":4,
+    "DistanceToCentroid":0.9356202851
+  },
+  {
+    "Player":"Jackson Merrill",
+    "Team":"SD",
+    "Pos":"OF",
+    "DKSalary":4500.0,
+    "Ownership":3.8,
+    "ProjPoints":9.35,
+    "Cluster":4,
+    "DistanceToCentroid":0.6666325888
+  },
+  {
+    "Player":"Jackson Chourio",
+    "Team":"MIL",
+    "Pos":"OF",
+    "DKSalary":4400.0,
+    "Ownership":7.5,
+    "ProjPoints":8.07,
+    "Cluster":7,
+    "DistanceToCentroid":0.4350646192
+  },
+  {
+    "Player":"Marcell Ozuna",
+    "Team":"ATL",
+    "Pos":"OF",
+    "DKSalary":4300.0,
+    "Ownership":6.4,
+    "ProjPoints":8.0,
+    "Cluster":7,
+    "DistanceToCentroid":0.2644433669
+  },
+  {
+    "Player":"Geraldo Perdomo",
+    "Team":"ARI",
+    "Pos":"SS",
+    "DKSalary":4300.0,
+    "Ownership":6.2,
+    "ProjPoints":7.74,
+    "Cluster":7,
+    "DistanceToCentroid":0.2604738531
+  },
+  {
+    "Player":"Trent Grisham",
+    "Team":"NYY",
+    "Pos":"OF",
+    "DKSalary":4200.0,
+    "Ownership":12.3,
+    "ProjPoints":8.91,
+    "Cluster":6,
+    "DistanceToCentroid":0.3023935047
+  },
+  {
+    "Player":"Dansby Swanson",
+    "Team":"CHC",
+    "Pos":"SS",
+    "DKSalary":4200.0,
+    "Ownership":7.0,
+    "ProjPoints":7.8,
+    "Cluster":7,
+    "DistanceToCentroid":0.3582301726
+  },
+  {
+    "Player":"Wilyer Abreu",
+    "Team":"BOS",
+    "Pos":"OF",
+    "DKSalary":4200.0,
+    "Ownership":7.7,
+    "ProjPoints":8.24,
+    "Cluster":7,
+    "DistanceToCentroid":0.4664769628
+  },
+  {
+    "Player":"Luis Garc\u00eda Jr.",
+    "Team":"WSH",
+    "Pos":"2B",
+    "DKSalary":4200.0,
+    "Ownership":2.7,
+    "ProjPoints":8.37,
+    "Cluster":7,
+    "DistanceToCentroid":0.3314187885
+  },
+  {
+    "Player":"Tyler Stephenson",
+    "Team":"CIN",
+    "Pos":"C",
+    "DKSalary":4200.0,
+    "Ownership":15.2,
+    "ProjPoints":7.98,
+    "Cluster":6,
+    "DistanceToCentroid":0.471048582
+  },
+  {
+    "Player":"Anthony Volpe",
+    "Team":"NYY",
+    "Pos":"SS",
+    "DKSalary":4100.0,
+    "Ownership":14.3,
+    "ProjPoints":8.04,
+    "Cluster":6,
+    "DistanceToCentroid":0.3288963604
+  },
+  {
+    "Player":"Brandon Nimmo",
+    "Team":"NYM",
+    "Pos":"OF",
+    "DKSalary":4100.0,
+    "Ownership":2.7,
+    "ProjPoints":7.24,
+    "Cluster":7,
+    "DistanceToCentroid":0.4501140196
+  },
+  {
+    "Player":"William Contreras",
+    "Team":"MIL",
+    "Pos":"C",
+    "DKSalary":4100.0,
+    "Ownership":13.4,
+    "ProjPoints":7.61,
+    "Cluster":6,
+    "DistanceToCentroid":0.4041140248
+  },
+  {
+    "Player":"Brice Turang",
+    "Team":"MIL",
+    "Pos":"2B",
+    "DKSalary":4100.0,
+    "Ownership":3.8,
+    "ProjPoints":7.68,
+    "Cluster":7,
+    "DistanceToCentroid":0.2006750792
+  },
+  {
+    "Player":"Willson Contreras",
+    "Team":"STL",
+    "Pos":"1B",
+    "DKSalary":4100.0,
+    "Ownership":3.8,
+    "ProjPoints":7.93,
+    "Cluster":7,
+    "DistanceToCentroid":0.1461181964
+  },
+  {
+    "Player":"Pavin Smith",
+    "Team":"ARI",
+    "Pos":"1B",
+    "DKSalary":4000.0,
+    "Ownership":2.2,
+    "ProjPoints":7.81,
+    "Cluster":7,
+    "DistanceToCentroid":0.3856000268
+  },
+  {
+    "Player":"Ian Happ",
+    "Team":"CHC",
+    "Pos":"OF",
+    "DKSalary":4000.0,
+    "Ownership":4.5,
+    "ProjPoints":8.21,
+    "Cluster":7,
+    "DistanceToCentroid":0.189172572
+  },
+  {
+    "Player":"Will Benson",
+    "Team":"CIN",
+    "Pos":"OF",
+    "DKSalary":4000.0,
+    "Ownership":5.8,
+    "ProjPoints":8.57,
+    "Cluster":7,
+    "DistanceToCentroid":0.3639227133
+  },
+  {
+    "Player":"Sal Frelick",
+    "Team":"MIL",
+    "Pos":"OF",
+    "DKSalary":4000.0,
+    "Ownership":3.9,
+    "ProjPoints":7.18,
+    "Cluster":8,
+    "DistanceToCentroid":0.3585532958
+  },
+  {
+    "Player":"Taylor Ward",
+    "Team":"LAA",
+    "Pos":"OF",
+    "DKSalary":4000.0,
+    "Ownership":3.5,
+    "ProjPoints":8.54,
+    "Cluster":7,
+    "DistanceToCentroid":0.3451316738
+  },
+  {
+    "Player":"Giancarlo Stanton",
+    "Team":"NYY",
+    "Pos":"OF",
+    "DKSalary":3900.0,
+    "Ownership":28.0,
+    "ProjPoints":9.84,
+    "Cluster":3,
+    "DistanceToCentroid":0.6863408916
+  },
+  {
+    "Player":"Ozzie Albies",
+    "Team":"ATL",
+    "Pos":"2B",
+    "DKSalary":3900.0,
+    "Ownership":4.9,
+    "ProjPoints":6.72,
+    "Cluster":8,
+    "DistanceToCentroid":0.4004954509
+  },
+  {
+    "Player":"Randy Arozarena",
+    "Team":"SEA",
+    "Pos":"OF",
+    "DKSalary":3900.0,
+    "Ownership":4.7,
+    "ProjPoints":8.02,
+    "Cluster":7,
+    "DistanceToCentroid":0.2187676038
+  },
+  {
+    "Player":"Roman Anthony",
+    "Team":"BOS",
+    "Pos":"OF",
+    "DKSalary":3900.0,
+    "Ownership":6.8,
+    "ProjPoints":7.54,
+    "Cluster":7,
+    "DistanceToCentroid":0.4369761836
+  },
+  {
+    "Player":"Ryan Jeffers",
+    "Team":"MIN",
+    "Pos":"C",
+    "DKSalary":3900.0,
+    "Ownership":1.0,
+    "ProjPoints":7.27,
+    "Cluster":8,
+    "DistanceToCentroid":0.5010790167
+  },
+  {
+    "Player":"Nolan Arenado",
+    "Team":"STL",
+    "Pos":"3B",
+    "DKSalary":3900.0,
+    "Ownership":2.5,
+    "ProjPoints":6.8,
+    "Cluster":8,
+    "DistanceToCentroid":0.3936739718
+  },
+  {
+    "Player":"Lourdes Gurriel Jr.",
+    "Team":"ARI",
+    "Pos":"OF",
+    "DKSalary":3800.0,
+    "Ownership":3.0,
+    "ProjPoints":7.65,
+    "Cluster":8,
+    "DistanceToCentroid":0.3367218558
+  },
+  {
+    "Player":"J.P. Crawford",
+    "Team":"SEA",
+    "Pos":"SS",
+    "DKSalary":3800.0,
+    "Ownership":3.2,
+    "ProjPoints":7.57,
+    "Cluster":8,
+    "DistanceToCentroid":0.3042281049
+  },
+  {
+    "Player":"Nico Hoerner",
+    "Team":"CHC",
+    "Pos":"2B",
+    "DKSalary":3800.0,
+    "Ownership":3.9,
+    "ProjPoints":7.24,
+    "Cluster":8,
+    "DistanceToCentroid":0.2312896752
+  },
+  {
+    "Player":"Carlos Narv\u00e1ez",
+    "Team":"BOS",
+    "Pos":"C",
+    "DKSalary":3800.0,
+    "Ownership":13.3,
+    "ProjPoints":6.84,
+    "Cluster":6,
+    "DistanceToCentroid":0.7432681628
+  },
+  {
+    "Player":"Matt McLain",
+    "Team":"CIN",
+    "Pos":"2B",
+    "DKSalary":3800.0,
+    "Ownership":6.5,
+    "ProjPoints":8.97,
+    "Cluster":7,
+    "DistanceToCentroid":0.6125181151
+  },
+  {
+    "Player":"Trevor Larnach",
+    "Team":"MIN",
+    "Pos":"OF",
+    "DKSalary":3800.0,
+    "Ownership":1.2,
+    "ProjPoints":7.45,
+    "Cluster":8,
+    "DistanceToCentroid":0.4567840469
+  },
+  {
+    "Player":"Alec Burleson",
+    "Team":"STL",
+    "Pos":"OF",
+    "DKSalary":3800.0,
+    "Ownership":3.2,
+    "ProjPoints":7.57,
+    "Cluster":8,
+    "DistanceToCentroid":0.3042281049
+  },
+  {
+    "Player":"Tim Tawa",
+    "Team":"ARI",
+    "Pos":"OF",
+    "DKSalary":3700.0,
+    "Ownership":2.5,
+    "ProjPoints":7.04,
+    "Cluster":8,
+    "DistanceToCentroid":0.2593948934
+  },
+  {
+    "Player":"Andrew McCutchen",
+    "Team":"PIT",
+    "Pos":"OF",
+    "DKSalary":3700.0,
+    "Ownership":1.5,
+    "ProjPoints":7.35,
+    "Cluster":8,
+    "DistanceToCentroid":0.3784283097
+  },
+  {
+    "Player":"Jorge Polanco",
+    "Team":"SEA",
+    "Pos":"2B",
+    "DKSalary":3700.0,
+    "Ownership":4.5,
+    "ProjPoints":7.62,
+    "Cluster":8,
+    "DistanceToCentroid":0.2810995493
+  },
+  {
+    "Player":"Carson Kelly",
+    "Team":"CHC",
+    "Pos":"C",
+    "DKSalary":3700.0,
+    "Ownership":5.9,
+    "ProjPoints":7.16,
+    "Cluster":8,
+    "DistanceToCentroid":0.3457931409
+  },
+  {
+    "Player":"Rhys Hoskins",
+    "Team":"MIL",
+    "Pos":"1B",
+    "DKSalary":3700.0,
+    "Ownership":3.5,
+    "ProjPoints":7.22,
+    "Cluster":8,
+    "DistanceToCentroid":0.1713407014
+  },
+  {
+    "Player":"Brendan Donovan",
+    "Team":"STL",
+    "Pos":"2B",
+    "DKSalary":3700.0,
+    "Ownership":6.2,
+    "ProjPoints":8.2,
+    "Cluster":7,
+    "DistanceToCentroid":0.4298873417
+  },
+  {
+    "Player":"Lars Nootbaar",
+    "Team":"STL",
+    "Pos":"OF",
+    "DKSalary":3700.0,
+    "Ownership":2.0,
+    "ProjPoints":7.53,
+    "Cluster":8,
+    "DistanceToCentroid":0.3473699428
+  },
+  {
+    "Player":"Sean Murphy",
+    "Team":"ATL",
+    "Pos":"C",
+    "DKSalary":3600.0,
+    "Ownership":4.9,
+    "ProjPoints":6.85,
+    "Cluster":8,
+    "DistanceToCentroid":0.2467720668
+  },
+  {
+    "Player":"Bryan Reynolds",
+    "Team":"PIT",
+    "Pos":"OF",
+    "DKSalary":3600.0,
+    "Ownership":2.9,
+    "ProjPoints":7.84,
+    "Cluster":8,
+    "DistanceToCentroid":0.3484870401
+  },
+  {
+    "Player":"Nathaniel Lowe",
+    "Team":"WSH",
+    "Pos":"1B",
+    "DKSalary":3600.0,
+    "Ownership":1.9,
+    "ProjPoints":7.14,
+    "Cluster":8,
+    "DistanceToCentroid":0.2928943134
+  },
+  {
+    "Player":"Matt Wallner",
+    "Team":"MIN",
+    "Pos":"OF",
+    "DKSalary":3600.0,
+    "Ownership":2.3,
+    "ProjPoints":8.04,
+    "Cluster":8,
+    "DistanceToCentroid":0.4671987295
+  },
+  {
+    "Player":"Masyn Winn",
+    "Team":"STL",
+    "Pos":"SS",
+    "DKSalary":3600.0,
+    "Ownership":3.7,
+    "ProjPoints":7.26,
+    "Cluster":8,
+    "DistanceToCentroid":0.1072929854
+  },
+  {
+    "Player":"Jasson Dom\u00ednguez",
+    "Team":"NYY",
+    "Pos":"OF",
+    "DKSalary":3500.0,
+    "Ownership":4.5,
+    "ProjPoints":8.77,
+    "Cluster":7,
+    "DistanceToCentroid":0.6048539599
+  },
+  {
+    "Player":"Luke Raley",
+    "Team":"SEA",
+    "Pos":"OF",
+    "DKSalary":3500.0,
+    "Ownership":2.8,
+    "ProjPoints":8.08,
+    "Cluster":8,
+    "DistanceToCentroid":0.4460114348
+  },
+  {
+    "Player":"Trevor Story",
+    "Team":"BOS",
+    "Pos":"SS",
+    "DKSalary":3500.0,
+    "Ownership":4.0,
+    "ProjPoints":7.1,
+    "Cluster":8,
+    "DistanceToCentroid":0.0624978071
+  },
+  {
+    "Player":"Jake Fraley",
+    "Team":"CIN",
+    "Pos":"OF",
+    "DKSalary":3500.0,
+    "Ownership":3.6,
+    "ProjPoints":7.68,
+    "Cluster":8,
+    "DistanceToCentroid":0.2364980818
+  },
+  {
+    "Player":"Rece Hinds",
+    "Team":"CIN",
+    "Pos":"OF",
+    "DKSalary":3500.0,
+    "Ownership":4.2,
+    "ProjPoints":7.61,
+    "Cluster":8,
+    "DistanceToCentroid":0.2103886422
+  },
+  {
+    "Player":"Jeff McNeil",
+    "Team":"NYM",
+    "Pos":"2B\/OF",
+    "DKSalary":3500.0,
+    "Ownership":2.6,
+    "ProjPoints":6.13,
+    "Cluster":8,
+    "DistanceToCentroid":0.5292929715
+  },
+  {
+    "Player":"Luis Robert Jr.",
+    "Team":"CWS",
+    "Pos":"OF",
+    "DKSalary":3500.0,
+    "Ownership":4.5,
+    "ProjPoints":8.08,
+    "Cluster":8,
+    "DistanceToCentroid":0.4340884924
+  },
+  {
+    "Player":"Nolan Gorman",
+    "Team":"STL",
+    "Pos":"2B",
+    "DKSalary":3500.0,
+    "Ownership":2.7,
+    "ProjPoints":7.09,
+    "Cluster":8,
+    "DistanceToCentroid":0.1691350497
+  },
+  {
+    "Player":"Nolan Schanuel",
+    "Team":"LAA",
+    "Pos":"1B",
+    "DKSalary":3500.0,
+    "Ownership":4.0,
+    "ProjPoints":8.11,
+    "Cluster":8,
+    "DistanceToCentroid":0.4371564674
+  },
+  {
+    "Player":"Gavin Sheets",
+    "Team":"SD",
+    "Pos":"OF",
+    "DKSalary":3500.0,
+    "Ownership":1.3,
+    "ProjPoints":7.83,
+    "Cluster":8,
+    "DistanceToCentroid":0.4722509452
+  },
+  {
+    "Player":"Michael Harris II",
+    "Team":"ATL",
+    "Pos":"OF",
+    "DKSalary":3400.0,
+    "Ownership":2.6,
+    "ProjPoints":6.93,
+    "Cluster":8,
+    "DistanceToCentroid":0.2133406008
+  },
+  {
+    "Player":"Spencer Horwitz",
+    "Team":"PIT",
+    "Pos":"1B",
+    "DKSalary":3400.0,
+    "Ownership":2.0,
+    "ProjPoints":6.89,
+    "Cluster":8,
+    "DistanceToCentroid":0.2965460518
+  },
+  {
+    "Player":"Nick Gonzales",
+    "Team":"PIT",
+    "Pos":"2B",
+    "DKSalary":3400.0,
+    "Ownership":2.2,
+    "ProjPoints":6.8,
+    "Cluster":8,
+    "DistanceToCentroid":0.2958185841
+  },
+  {
+    "Player":"Ceddanne Rafaela",
+    "Team":"BOS",
+    "Pos":"OF",
+    "DKSalary":3400.0,
+    "Ownership":2.4,
+    "ProjPoints":7.14,
+    "Cluster":8,
+    "DistanceToCentroid":0.2050425308
+  },
+  {
+    "Player":"Willi Castro",
+    "Team":"MIN",
+    "Pos":"2B\/OF",
+    "DKSalary":3400.0,
+    "Ownership":1.0,
+    "ProjPoints":7.63,
+    "Cluster":8,
+    "DistanceToCentroid":0.4554240747
+  },
+  {
+    "Player":"Carlos Correa",
+    "Team":"MIN",
+    "Pos":"SS",
+    "DKSalary":3400.0,
+    "Ownership":1.5,
+    "ProjPoints":7.39,
+    "Cluster":8,
+    "DistanceToCentroid":0.3463248453
+  },
+  {
+    "Player":"Logan O'Hoppe",
+    "Team":"LAA",
+    "Pos":"C",
+    "DKSalary":3400.0,
+    "Ownership":9.7,
+    "ProjPoints":8.24,
+    "Cluster":6,
+    "DistanceToCentroid":0.5307701158
+  },
+  {
+    "Player":"Luis Arraez",
+    "Team":"SD",
+    "Pos":"1B",
+    "DKSalary":3400.0,
+    "Ownership":3.4,
+    "ProjPoints":7.3,
+    "Cluster":8,
+    "DistanceToCentroid":0.0828477774
+  },
+  {
+    "Player":"Abraham Toro",
+    "Team":"BOS",
+    "Pos":"1B\/3B",
+    "DKSalary":3300.0,
+    "Ownership":16.6,
+    "ProjPoints":6.77,
+    "Cluster":6,
+    "DistanceToCentroid":1.0497057341
+  },
+  {
+    "Player":"Keibert Ruiz",
+    "Team":"WSH",
+    "Pos":"C",
+    "DKSalary":3300.0,
+    "Ownership":1.9,
+    "ProjPoints":5.9,
+    "Cluster":1,
+    "DistanceToCentroid":0.5609529657
+  },
+  {
+    "Player":"Victor Scott II",
+    "Team":"STL",
+    "Pos":"OF",
+    "DKSalary":3300.0,
+    "Ownership":1.0,
+    "ProjPoints":7.06,
+    "Cluster":8,
+    "DistanceToCentroid":0.4187921289
+  },
+  {
+    "Player":"Jo Adell",
+    "Team":"LAA",
+    "Pos":"OF",
+    "DKSalary":3300.0,
+    "Ownership":2.0,
+    "ProjPoints":8.01,
+    "Cluster":8,
+    "DistanceToCentroid":0.4754741839
+  },
+  {
+    "Player":"Xander Bogaerts",
+    "Team":"SD",
+    "Pos":"SS",
+    "DKSalary":3300.0,
+    "Ownership":3.6,
+    "ProjPoints":8.13,
+    "Cluster":8,
+    "DistanceToCentroid":0.4544675083
+  },
+  {
+    "Player":"Alek Thomas",
+    "Team":"ARI",
+    "Pos":"OF",
+    "DKSalary":3200.0,
+    "Ownership":2.0,
+    "ProjPoints":6.85,
+    "Cluster":8,
+    "DistanceToCentroid":0.3425561325
+  },
+  {
+    "Player":"Adam Frazier",
+    "Team":"PIT",
+    "Pos":"2B\/OF",
+    "DKSalary":3200.0,
+    "Ownership":1.0,
+    "ProjPoints":5.62,
+    "Cluster":1,
+    "DistanceToCentroid":0.642489178
+  },
+  {
+    "Player":"Matt Shaw",
+    "Team":"CHC",
+    "Pos":"3B",
+    "DKSalary":3200.0,
+    "Ownership":2.5,
+    "ProjPoints":7.09,
+    "Cluster":8,
+    "DistanceToCentroid":0.2485849881
+  },
+  {
+    "Player":"Tyrone Taylor",
+    "Team":"NYM",
+    "Pos":"OF",
+    "DKSalary":3200.0,
+    "Ownership":1.0,
+    "ProjPoints":5.95,
+    "Cluster":1,
+    "DistanceToCentroid":0.5638848221
+  },
+  {
+    "Player":"Ty France",
+    "Team":"MIN",
+    "Pos":"1B",
+    "DKSalary":3200.0,
+    "Ownership":1.3,
+    "ProjPoints":6.95,
+    "Cluster":8,
+    "DistanceToCentroid":0.4089410098
+  },
+  {
+    "Player":"Alex Verdugo",
+    "Team":"ATL",
+    "Pos":"OF",
+    "DKSalary":3100.0,
+    "Ownership":1.6,
+    "ProjPoints":6.13,
+    "Cluster":1,
+    "DistanceToCentroid":0.4357357325
+  },
+  {
+    "Player":"Isiah Kiner-Falefa",
+    "Team":"PIT",
+    "Pos":"SS",
+    "DKSalary":3100.0,
+    "Ownership":1.3,
+    "ProjPoints":5.52,
+    "Cluster":1,
+    "DistanceToCentroid":0.6143904927
+  },
+  {
+    "Player":"Brady House",
+    "Team":"WSH",
+    "Pos":"3B",
+    "DKSalary":3100.0,
+    "Ownership":1.7,
+    "ProjPoints":6.1,
+    "Cluster":1,
+    "DistanceToCentroid":0.4326592259
+  },
+  {
+    "Player":"Gavin Lux",
+    "Team":"CIN",
+    "Pos":"3B",
+    "DKSalary":3100.0,
+    "Ownership":15.9,
+    "ProjPoints":7.41,
+    "Cluster":6,
+    "DistanceToCentroid":0.8627351763
+  },
+  {
+    "Player":"Joey Bart",
+    "Team":"PIT",
+    "Pos":"C",
+    "DKSalary":3000.0,
+    "Ownership":1.0,
+    "ProjPoints":6.45,
+    "Cluster":1,
+    "DistanceToCentroid":0.4259814002
+  },
+  {
+    "Player":"Marcelo Mayer",
+    "Team":"BOS",
+    "Pos":"2B\/3B",
+    "DKSalary":3000.0,
+    "Ownership":8.7,
+    "ProjPoints":6.81,
+    "Cluster":8,
+    "DistanceToCentroid":0.7836962011
+  },
+  {
+    "Player":"Josh Bell",
+    "Team":"WSH",
+    "Pos":"1B",
+    "DKSalary":3000.0,
+    "Ownership":1.7,
+    "ProjPoints":7.33,
+    "Cluster":8,
+    "DistanceToCentroid":0.4214882186
+  },
+  {
+    "Player":"Spencer Steer",
+    "Team":"CIN",
+    "Pos":"1B",
+    "DKSalary":3000.0,
+    "Ownership":16.0,
+    "ProjPoints":7.55,
+    "Cluster":6,
+    "DistanceToCentroid":0.8806908678
+  },
+  {
+    "Player":"Chase Meidroth",
+    "Team":"CWS",
+    "Pos":"2B\/SS",
+    "DKSalary":3000.0,
+    "Ownership":9.6,
+    "ProjPoints":7.2,
+    "Cluster":8,
+    "DistanceToCentroid":0.8850295371
+  },
+  {
+    "Player":"Miguel Vargas",
+    "Team":"CWS",
+    "Pos":"1B\/3B",
+    "DKSalary":3000.0,
+    "Ownership":12.1,
+    "ProjPoints":7.66,
+    "Cluster":6,
+    "DistanceToCentroid":0.6927525723
+  },
+  {
+    "Player":"Isaac Collins",
+    "Team":"MIL",
+    "Pos":"OF",
+    "DKSalary":3000.0,
+    "Ownership":2.8,
+    "ProjPoints":6.93,
+    "Cluster":8,
+    "DistanceToCentroid":0.3420296427
+  },
+  {
+    "Player":"DJ LeMahieu",
+    "Team":"NYY",
+    "Pos":"2B",
+    "DKSalary":2900.0,
+    "Ownership":5.1,
+    "ProjPoints":6.8,
+    "Cluster":1,
+    "DistanceToCentroid":0.3719107485
+  },
+  {
+    "Player":"Andrew Benintendi",
+    "Team":"CWS",
+    "Pos":"OF",
+    "DKSalary":2900.0,
+    "Ownership":2.0,
+    "ProjPoints":7.65,
+    "Cluster":8,
+    "DistanceToCentroid":0.4869262779
+  },
+  {
+    "Player":"Caleb Durbin",
+    "Team":"MIL",
+    "Pos":"3B",
+    "DKSalary":2900.0,
+    "Ownership":3.1,
+    "ProjPoints":6.48,
+    "Cluster":1,
+    "DistanceToCentroid":0.2052210983
+  },
+  {
+    "Player":"Kody Clemens",
+    "Team":"MIN",
+    "Pos":"1B\/2B",
+    "DKSalary":2900.0,
+    "Ownership":2.2,
+    "ProjPoints":6.86,
+    "Cluster":1,
+    "DistanceToCentroid":0.3270020266
+  },
+  {
+    "Player":"Pedro Pag\u00e9s",
+    "Team":"STL",
+    "Pos":"C",
+    "DKSalary":2900.0,
+    "Ownership":2.7,
+    "ProjPoints":5.89,
+    "Cluster":1,
+    "DistanceToCentroid":0.3368073233
+  },
+  {
+    "Player":"Jared Young",
+    "Team":"NYM",
+    "Pos":"1B",
+    "DKSalary":2800.0,
+    "Ownership":1.0,
+    "ProjPoints":5.71,
+    "Cluster":1,
+    "DistanceToCentroid":0.4950647022
+  },
+  {
+    "Player":"Luis Torrens",
+    "Team":"NYM",
+    "Pos":"C",
+    "DKSalary":2800.0,
+    "Ownership":1.8,
+    "ProjPoints":6.08,
+    "Cluster":1,
+    "DistanceToCentroid":0.3056142576
+  },
+  {
+    "Player":"Austin Slater",
+    "Team":"CWS",
+    "Pos":"OF",
+    "DKSalary":2800.0,
+    "Ownership":1.9,
+    "ProjPoints":7.24,
+    "Cluster":1,
+    "DistanceToCentroid":0.4530918133
+  },
+  {
+    "Player":"Brooks Lee",
+    "Team":"MIN",
+    "Pos":"2B\/3B",
+    "DKSalary":2800.0,
+    "Ownership":1.8,
+    "ProjPoints":6.38,
+    "Cluster":1,
+    "DistanceToCentroid":0.2579720749
+  },
+  {
+    "Player":"David Hamilton",
+    "Team":"BOS",
+    "Pos":"2B\/SS",
+    "DKSalary":2700.0,
+    "Ownership":9.0,
+    "ProjPoints":7.47,
+    "Cluster":8,
+    "DistanceToCentroid":0.9003876723
+  },
+  {
+    "Player":"Ronny Mauricio",
+    "Team":"NYM",
+    "Pos":"3B",
+    "DKSalary":2700.0,
+    "Ownership":1.5,
+    "ProjPoints":6.2,
+    "Cluster":1,
+    "DistanceToCentroid":0.2915090047
+  },
+  {
+    "Player":"Ke'Bryan Hayes",
+    "Team":"PIT",
+    "Pos":"3B",
+    "DKSalary":2600.0,
+    "Ownership":1.7,
+    "ProjPoints":6.0,
+    "Cluster":1,
+    "DistanceToCentroid":0.3081724296
+  },
+  {
+    "Player":"Christian Moore",
+    "Team":"LAA",
+    "Pos":"2B",
+    "DKSalary":2600.0,
+    "Ownership":2.1,
+    "ProjPoints":6.37,
+    "Cluster":1,
+    "DistanceToCentroid":0.1762369592
+  },
+  {
+    "Player":"Jose Herrera",
+    "Team":"ARI",
+    "Pos":"C",
+    "DKSalary":2500.0,
+    "Ownership":2.7,
+    "ProjPoints":5.12,
+    "Cluster":1,
+    "DistanceToCentroid":0.6268291501
+  },
+  {
+    "Player":"Ben Williamson",
+    "Team":"SEA",
+    "Pos":"3B",
+    "DKSalary":2500.0,
+    "Ownership":2.0,
+    "ProjPoints":5.59,
+    "Cluster":1,
+    "DistanceToCentroid":0.4424994394
+  },
+  {
+    "Player":"Justin Turner",
+    "Team":"CHC",
+    "Pos":"1B",
+    "DKSalary":2500.0,
+    "Ownership":2.9,
+    "ProjPoints":6.56,
+    "Cluster":1,
+    "DistanceToCentroid":0.1007468395
+  },
+  {
+    "Player":"Daylen Lile",
+    "Team":"WSH",
+    "Pos":"OF",
+    "DKSalary":2500.0,
+    "Ownership":1.0,
+    "ProjPoints":6.45,
+    "Cluster":1,
+    "DistanceToCentroid":0.3371921524
+  },
+  {
+    "Player":"Edgar Quero",
+    "Team":"CWS",
+    "Pos":"C",
+    "DKSalary":2500.0,
+    "Ownership":10.6,
+    "ProjPoints":6.54,
+    "Cluster":1,
+    "DistanceToCentroid":1.0564133531
+  },
+  {
+    "Player":"Luis Rengifo",
+    "Team":"LAA",
+    "Pos":"2B\/3B",
+    "DKSalary":2500.0,
+    "Ownership":4.6,
+    "ProjPoints":7.1,
+    "Cluster":1,
+    "DistanceToCentroid":0.3709380541
+  },
+  {
+    "Player":"Jose Iglesias",
+    "Team":"SD",
+    "Pos":"3B\/SS",
+    "DKSalary":2500.0,
+    "Ownership":2.9,
+    "ProjPoints":6.1,
+    "Cluster":1,
+    "DistanceToCentroid":0.1756948699
+  },
+  {
+    "Player":"Jacob Young",
+    "Team":"WSH",
+    "Pos":"OF",
+    "DKSalary":2400.0,
+    "Ownership":1.0,
+    "ProjPoints":6.37,
+    "Cluster":1,
+    "DistanceToCentroid":0.3546169124
+  },
+  {
+    "Player":"Lenyn Sosa",
+    "Team":"CWS",
+    "Pos":"1B\/2B",
+    "DKSalary":2400.0,
+    "Ownership":3.7,
+    "ProjPoints":6.78,
+    "Cluster":1,
+    "DistanceToCentroid":0.2114510857
+  },
+  {
+    "Player":"Michael A. Taylor",
+    "Team":"CWS",
+    "Pos":"OF",
+    "DKSalary":2400.0,
+    "Ownership":1.0,
+    "ProjPoints":6.79,
+    "Cluster":1,
+    "DistanceToCentroid":0.3918161425
+  },
+  {
+    "Player":"Joey Ortiz",
+    "Team":"MIL",
+    "Pos":"SS",
+    "DKSalary":2400.0,
+    "Ownership":2.1,
+    "ProjPoints":6.17,
+    "Cluster":1,
+    "DistanceToCentroid":0.2443635462
+  },
+  {
+    "Player":"LaMonte Wade Jr.",
+    "Team":"LAA",
+    "Pos":"1B\/OF",
+    "DKSalary":2300.0,
+    "Ownership":2.2,
+    "ProjPoints":7.33,
+    "Cluster":1,
+    "DistanceToCentroid":0.4887265035
+  },
+  {
+    "Player":"Bryce Johnson",
+    "Team":"SD",
+    "Pos":"OF",
+    "DKSalary":2300.0,
+    "Ownership":2.5,
+    "ProjPoints":6.55,
+    "Cluster":1,
+    "DistanceToCentroid":0.2247792754
+  },
+  {
+    "Player":"Nick Allen",
+    "Team":"ATL",
+    "Pos":"SS",
+    "DKSalary":2200.0,
+    "Ownership":2.1,
+    "ProjPoints":5.25,
+    "Cluster":1,
+    "DistanceToCentroid":0.6341911677
+  },
+  {
+    "Player":"Cole Young",
+    "Team":"SEA",
+    "Pos":"2B",
+    "DKSalary":2200.0,
+    "Ownership":1.7,
+    "ProjPoints":6.27,
+    "Cluster":1,
+    "DistanceToCentroid":0.3480719213
+  },
+  {
+    "Player":"Donovan Solano",
+    "Team":"SEA",
+    "Pos":"1B",
+    "DKSalary":2100.0,
+    "Ownership":7.0,
+    "ProjPoints":6.38,
+    "Cluster":1,
+    "DistanceToCentroid":0.6193562642
+  },
+  {
+    "Player":"Vinny Capra",
+    "Team":"CWS",
+    "Pos":"SS",
+    "DKSalary":2000.0,
+    "Ownership":1.0,
+    "ProjPoints":5.8,
+    "Cluster":1,
+    "DistanceToCentroid":0.5844089461
+  },
+  {
+    "Player":"Mart\u00edn Maldonado",
+    "Team":"SD",
+    "Pos":"C",
+    "DKSalary":2000.0,
+    "Ownership":1.6,
+    "ProjPoints":5.34,
+    "Cluster":1,
+    "DistanceToCentroid":0.6838037568
+  }
+]
